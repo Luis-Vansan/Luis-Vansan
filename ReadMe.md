@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Informática (IFSP_CMP);<br>Conhecimentos básicos:<br>📍Python /HTML /CSS/ JS/ C/ JAVA;
+Estudante de Informática (IFSP_CMP);<br>Conhecimentos básicos:<br>📍PYTHON /HTML /CSS/ JS/ C/ JAVA/ PHP;
 
 
 ## 🌐 Socials:
