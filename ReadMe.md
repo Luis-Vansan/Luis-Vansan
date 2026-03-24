@@ -1,15 +1,35 @@
-# 💫 About Me:
-Técnico em Informática pelo IFSP – Campus Campinas. <br>Tenho interesse em Engenharia de Software e Ciência da Computação, com foco em desenvolvimento de software, aplicações web e fundamentos de programação. <br>Possuo experiência acadêmica e prática com projetos em programação.<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=FFB6C1&background=0D1117&center=true&vCenter=true&width=800&height=140&lines=Luis+Vansan;Back-End+Developer" alt="Typing SVG" />
 
+  <p align="center">
+    <font face="Segoe UI, Inter, Helvetica, Arial, sans-serif" size="2">
+      Estudante de Sistemas de Informação e Técnico em Informática pelo IFSP, com foco em desenvolvimento com Java, Python e SQL.
+    </font>
+  </p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisvansan1@gmail.com) 
+  <br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Luis-Vansan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Luis-Vansan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vansan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://skillicons.dev/icons?i=java,py,c,mysql,js,php,html,css" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/luis-vansan-016a263a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:luisvansan1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br><br>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis-Vansan&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Vansan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Vansan&theme=tokyonight&hide_border=true&area=true&height=220" width="100%" />
+</div>
