@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/luis-vansan-016a263a5/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a><!--
-  --><a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisvansan1@gmail.com">
+  --><a href="mailto:luisvansan1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
