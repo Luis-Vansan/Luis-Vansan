@@ -3,7 +3,8 @@
 
 <p align="center">
   <font face="Segoe UI, Inter, Helvetica, Arial, sans-serif" size="2">
-    Estudante de Sistemas de Informação e Técnico em Informática pelo IFSP, com foco em desenvolvimento com Java/Python.
+    Estudante de Sistemas de Informação | Técnico em Informática (IFSP) <br>
+    Focado em desenvolvimento de software e aprendizado contínuo.
   </font>
 </p>
 
